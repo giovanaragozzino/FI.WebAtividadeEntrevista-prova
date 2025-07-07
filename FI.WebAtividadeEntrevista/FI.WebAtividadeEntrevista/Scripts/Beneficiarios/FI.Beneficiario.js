@@ -55,6 +55,9 @@ function incluirBeneficiario() {
             renderizarTabela(data);
         });
     }
+
+    $('#cpfBeneficiario').val('');
+    $('#nomeBeneficiario').val('');
 }
 
 function ValidarCpfIncBeneficiarios(cpf) {
