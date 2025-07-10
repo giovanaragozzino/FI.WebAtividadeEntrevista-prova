@@ -264,7 +264,6 @@ ServiceFabricBackup/
 *.rptproj.bak
 
 # SQL Server files
-*.ldf
 *.ndf
 
 !roslyn/**
